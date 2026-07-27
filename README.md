@@ -49,19 +49,7 @@ Repository Structure
 
 ## Dependencies
 
-Create a `requirements.txt` with:
-
-numpy
-pandas
-matplotlib
-seaborn
-librosa
-soundfile
-scikit-learn
-torch
-torchvision
-torchaudio
-
+See `requirements.txt`
 
 Install manually:
 
