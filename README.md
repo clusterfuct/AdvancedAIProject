@@ -28,9 +28,9 @@ Using the RAVDESS dataset (1,440 labeled speech clips across 8 emotions), we:
 
 | Model | Accuracy |
 |-------|----------|
-| **ResNet‑18 (Fine‑Tuned)** | **68%** |
-| **MFCC + SVM** | **61%** |
-| **Badshah CNN** | **40%** |
+| **ResNet‑18 (Fine‑Tuned)** | **72%** |
+| **MFCC + SVM** | **51%** |
+| **Badshah CNN** | **35%** |
 
 ---
 
