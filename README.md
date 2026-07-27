@@ -40,10 +40,7 @@ Repository Structure
 ├── notebooks/
 │   └── Advanced_AI_Project.ipynb        # Full project notebook
 ├── data/
-│   └── RAVDESS/                         # Place dataset here (not included)
-├── models/
-│   ├── best_badshah_cnn.pt              # Saved Badshah CNN weights
-│   └── best_resnet18.pth                # Saved ResNet‑18 weights
+│   └── https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio?resource=download                         # Link to dataset (to large to host here)
 ├── README.md                            # Project documentation
 └── requirements.txt                     # Python dependencies
 ```
